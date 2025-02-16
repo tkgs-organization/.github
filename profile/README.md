@@ -1,3 +1,3 @@
 ## TKGS Inc.
 
-Making games lol
+Making games and fixes lol
